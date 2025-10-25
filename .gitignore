@@ -13,3 +13,26 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Fichiers générés par l'IDE
+*.iml
+.idea/
+.gradle/
+local.properties
+build/
+
+# Fichiers de configuration de l'OS
+.DS_Store
+Thumbs.db
+
+# Captures
+captures/
+
+# Fichiers de build Gradle
+*.apk
+*.aab
+*.ap_
+*.a_
+*.arsc
+*.dex
+*.flat
+*.pb
