@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080684928283",
+    "project_id": "optiday-9304c",
+    "storage_bucket": "optiday-9304c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080684928283:android:040fc176e7da4c3c4ac7be",
+        "android_client_info": {
+          "package_name": "com.marwane.optiday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080684928283-pjuncsdbmhj3rru8drarm2rtelh841rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATNZtcwWMvHG6wR0EQItYAcDwFCDNEGAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080684928283-pjuncsdbmhj3rru8drarm2rtelh841rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
